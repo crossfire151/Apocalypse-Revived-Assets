@@ -1,10 +1,10 @@
 {
     "assets": [
         {
-            "version": "1.0.2",
+            "version": "1.0.0",
             "filename": "Assets_256.pack",
-            "url": "https://github.com/crossfire151/Apocalypse-Revived-Assets/releases/download/v1.0.1/Assets_256.pack",
-            "hash": "sha256:04bd8fc1651ab8a4df40dcefaf5cf03e2b736bbfb9bbad491dd9ec09fce57227"
+            "url": "https://github.com/crossfire151/Apocalypse-Revived-Assets/releases/download/v1.0.0/Assets_256.pack",
+            "hash": "sha256:daccec67bce9e8dda656f271f1fc214620f12104d3a6cf6df8405a0498ff798e"
         },
         {
             "version": "1.0.0",
